@@ -4,6 +4,7 @@
       "name": "Lorem ipsum jacket",
       "price": 11.2,
       "discount": 10,
+      "subtotal":10.08,
       "rating": 5,
       "Categories": ["fashion", "men"],
       "Tags": ["fashion", "men", "jacket", "full sleeve"],

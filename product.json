@@ -62,6 +62,7 @@
       "name": "Lorem ipsum coat",
       "price": 15.72,
       "discount": 15,
+     "subtotal":10.08,
       "rating": 3,
       "Categories": ["fashion", "women"],
       "Tags": ["fashion", "women", "coat", "full sleeve"],

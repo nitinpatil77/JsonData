@@ -268,7 +268,7 @@
       "newP": "new",
       "subtotal":0,
      "discount":0,
-     "qty":1,
+      "qty":1,
       "rating": 5,
       "Categories": ["fashion", "women"],
       "Tags": ["fashion", "women", "coat", "full sleeve"],

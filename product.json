@@ -267,6 +267,7 @@
       "price": 19.95,
       "newP": "new",
       "subtotal":0,
+     "discount":0,
      "qty":1,
       "rating": 5,
       "Categories": ["fashion", "women"],

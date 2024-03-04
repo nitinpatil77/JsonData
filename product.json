@@ -6,6 +6,7 @@
       "discount": 10,
       "subtotal":10.08,
       "rating": 5,
+      "qty":1,
       "Categories": ["fashion", "men"],
       "Tags": ["fashion", "men", "jacket", "full sleeve"],
       "Weight": " 400 g",

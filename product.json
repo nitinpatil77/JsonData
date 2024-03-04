@@ -4,7 +4,7 @@
       "name": "Lorem ipsum jacket",
       "price": 11.2,
       "discount": 10,
-      "subtotal":10.08,
+      "subtotal":0,
       "rating": 5,
       "qty":1,
       "Categories": ["fashion", "men"],

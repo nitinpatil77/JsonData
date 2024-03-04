@@ -266,6 +266,8 @@
       "name": "Lorem ipsum jacket",
       "price": 19.95,
       "newP": "new",
+      "subtotal":0,
+     "qty":1,
       "rating": 5,
       "Categories": ["fashion", "women"],
       "Tags": ["fashion", "women", "coat", "full sleeve"],
